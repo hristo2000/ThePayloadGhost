@@ -81,7 +81,7 @@ echo "Aca vamos a tener que compilar todo..."
 echo " "
 sleep 5
 setterm -foreground white
-cd /root/Escritorio/ThePayloadGhost/ThePayloadGhost/ThePayloadGhost/
+cd /root/Escritorio/ThePayloadGhost/ThePayloadGhost/
 apktool b $nombre -o $nombre2.apk
 setterm -foreground green
 echo " "
