@@ -6,8 +6,14 @@ Aca una foto del primer script
 <img src="https://github.com/error404-notfound/ThePayloadGhost/blob/master/ThePayloadGhost/fotos/Screenshot_20190518_184116.png">
 Esto es lo que va ahcer en el trascurso del uso
 <img src="https://github.com/error404-notfound/ThePayloadGhost/blob/master/ThePayloadGhost/fotos/muestra.png">
+
+
 Y ESTE ES EL RESULTADO:
+
+
 <img src="https://github.com/error404-notfound/ThePayloadGhost/blob/master/ThePayloadGhost/fotos/Apk.png">
+
+
 <h6>NUESTRAS REDES</h6>
 <br>
 Facebook:https://www.facebook.com/error4o4.org
