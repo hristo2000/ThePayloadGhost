@@ -4,11 +4,11 @@ Esta es una muestra, como ven trae WhatsApp y aplicaciones de moda.
 Tienen que descargar ThePayloadGhost en /root/Escritorio/ para que corra todo perfectamente , sino va generar errores.
 Aca una foto del primer script ya que trae dos, uno con las apk de moda y el otro que se llama E404-x que trae dos opciones, infectar apk legitima nuestra o sino pudiste te da las opciones de infectar 32 apk's.
 <img src="https://github.com/error404-notfound/ThePayloadGhost/blob/master/ThePayloadGhost/fotos/Screenshot_20190518_184116.png">
-Esto es lo que va ahcer en el trascurso del uso
+Esto es lo que va hacer en el trascurso del uso de E404-X
 <img src="https://github.com/error404-notfound/ThePayloadGhost/blob/master/ThePayloadGhost/fotos/muestra.png">
 
 
-Y ESTE ES EL RESULTADO:
+Y ESTE ES EL RESULTADO DE THEPAYLOADGHOST:
 
 
 <img src="https://github.com/error404-notfound/ThePayloadGhost/blob/master/ThePayloadGhost/fotos/Apk.png">
