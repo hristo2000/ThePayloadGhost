@@ -1,5 +1,8 @@
  #!/bin/bash
 clear
+chmod 777 banner.sh
+bash banner.sh
+sleep 4
 clear
 sleep 2
 #sleep 3
